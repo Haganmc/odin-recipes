@@ -1,1 +1,1 @@
-# odin-recipes
+This is a tutorial for a recipe website from The Oden Project
